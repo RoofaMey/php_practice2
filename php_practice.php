@@ -235,7 +235,7 @@
     //ARITHMETICS
 
     // + addition
-    echo 10 + 100 + 30, "<br>";
+    //echo 10 + 100 + 30, "<br>";
 
     // // - subtraction
     // echo 10 - 100 - 20, "<br>";
@@ -264,7 +264,7 @@
     // ASSIGNMENT
 
     // = equals
-    $x = 10;
+    //$x = 10;
 
     // +=
     // $x = $x + 10;
